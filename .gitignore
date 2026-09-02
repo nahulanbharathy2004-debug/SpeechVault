@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Streamlit
+.streamlit/
+
+# Raw media (can be large / copyrighted - keep out of git)
+data/samples/*
+!data/samples/.gitkeep
+*.wav
+*.mp3
+*.mp4
+*.m4a
+*.mkv
+*.mov
+*.avi
+
+# Generated outputs
+data/results/*.csv
+!data/results/.gitkeep
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/

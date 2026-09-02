@@ -1,0 +1,12 @@
+streamlit
+pandas
+matplotlib
+faster-whisper
+openai-whisper
+jiwer
+sacrebleu
+rouge-score
+nltk
+librosa
+soundfile
+ffmpeg-python
