@@ -1222,4 +1222,8 @@ SpeechTranscriptEval provides an end-to-end framework for studying the performan
 
 The project combines **speech processing, Natural Language Processing, machine learning, automatic speech recognition, evaluation metrics, data analysis, and interactive application development** into a single coursework-oriented research pipeline.
 
+**SUBMITTED BY :
+NAHULAN BHARATHY K 2582434
+VYSHNAV PRASAD     2582412**
+
 **SpeechTranscriptEval — Measuring how real-world speaking conditions affect speech transcription accuracy.**
