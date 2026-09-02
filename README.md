@@ -1031,17 +1031,6 @@ Create Pull Request
 
 Contributors should ensure that new functionality is tested before submitting changes.
 
-📄 License
-
-This project is intended for educational and academic purposes.
-
-A suitable open-source license can be added to the repository once the final project requirements are established.
-
-👨‍💻 Author
-
-Nahulan Bharathy
-
-GitHub:
 
 https://github.com/nahulanbharathy2004-debug
 ⭐ Acknowledgements
